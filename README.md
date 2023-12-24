@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loyd 👾</h1>
 <h3 align="center">A passionate developer from Queens, N.Y.</h3>
 
+<img align="right" alt="banner" width="400" src="https://imgur.com/HQq1TiJ">
+
+
 - 🔭 I’m currently working on [ssrc-model](https://github.com/floresloyd/ssrc-model)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Tailwind**
