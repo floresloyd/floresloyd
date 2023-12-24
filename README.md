@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loyd 👾</h1>
 <h3 align="center">A passionate developer from Queens, N.Y.</h3>
 
-<img align="right" alt="banner" width="400" src="https://imgur.com/gallery/HQq1TiJ">
+<img align="right" alt="banner" width="400" src="https://github.com/floresloyd/floresloyd/blob/main/photo-banner.png">
 
 
 - 🔭 I’m currently working on [ssrc-model](https://github.com/floresloyd/ssrc-model)
