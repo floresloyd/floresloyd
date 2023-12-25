@@ -1,4 +1,4 @@
-<img align="center" alt="Coding-banner" width="1200" src="https://github.com/floresloyd/floresloyd/blob/main/photo-banner.gif">
+<img align="center" alt="repo-banner" width="1200" src="https://ibb.co/bm075mm">
 
 - 📫 **us.flores.loyd@gmail.com**
 
