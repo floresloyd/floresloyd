@@ -1,4 +1,4 @@
-<img align="center" alt="repo-banner" width="1200" src="https://i.ibb.co/jfNHkff/photo-banner.gif">
+<img src="https://i.ibb.co/jfNHkff/photo-banner.gif" width="1200" alt="repo-banner">
 
 - 📫 **us.flores.loyd@gmail.com**
 
