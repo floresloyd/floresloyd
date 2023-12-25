@@ -1,11 +1,17 @@
 <img src="https://i.ibb.co/jfNHkff/photo-banner.gif" width="1200" alt="repo-banner">
 
-- 📫 **us.flores.loyd@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  
 <a href="https://linkedin.com/in/loyd-flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loyd-flores" height="30" width="40" /></a>
+
+<a href="mailto:us.flores.loyd@gmail.com" target="_blank"><img align="center" src="https://imgs.search.brave.com/rzHwyvlZ5vvdefnWOeHa1bSDIwBYdDJmaay6pBOb9u4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdlL0dtYWlsX2lj/b25fKDIwMjApLnN2/Zw.svg" alt="Email" height="30" width="40" /></a>
+
+
 </p>
+
 
 <p align="center">
 <h3 align="left">Languages and Tools:</h3>
