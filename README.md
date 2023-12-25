@@ -10,10 +10,8 @@
   </a>
 </p>
 
-<h3 align="center" style="text-decoration: underline;">Languages and Tools</h3>
-
 <!-- General Programming -->
-<h3 align="center">General Programming:</h3>
+<h3 align="center">General Programming and Leetcode:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
