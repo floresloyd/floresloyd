@@ -1,14 +1,6 @@
-<h1 align="center">Hi 👋, I'm Loyd 👾</h1>
-<h3 align="center">A passionate developer from Queens, N.Y.</h3>
+<img align="center" alt="Coding-banner" width="1200" src="https://github.com/floresloyd/floresloyd/blob/main/photo-banner.gif">
 
-<img align="center" alt="Coding-banner" width="1200" src="https://github.com/floresloyd/floresloyd/blob/main/photo-banner.png">
-
-
-- 🔭 I’m currently working on [ssrc-model](https://github.com/floresloyd/ssrc-model)
-
-- 🌱 I’m currently learning **Next.js, TypeScript, Tailwind**
-
-- 📫 How to reach me **us.flores.loyd@gmail.com**
+- 📫 **us.flores.loyd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
