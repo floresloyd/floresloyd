@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/jfNHkff/photo-banner.gif" width="1200" alt="repo-banner">
+<img src="https://github.com/floresloyd/floresloyd/blob/main/photo-banner.gif" width="1200" alt="repo-banner">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
