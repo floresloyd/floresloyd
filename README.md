@@ -1,9 +1,11 @@
 <img src="https://github.com/floresloyd/floresloyd/blob/main/photo-banner.gif" width="1200" alt="repo-banner">
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="mailto:us.flores.loyd@gmail.com">us.flores.loyd@gmail.com</a>
-</p>
+<p align="center"><a href="mailto:us.flores.loyd@gmail.com">us.flores.loyd@gmail.com</a></p>
+<span><a href="https://www.loydnf.co/">Personal Website</a></span>
+<span><a href="https://www.linkedin.com/in/loyd-flores/">LinkedIn</a> </span>
+<span><a href="https://devpost.com/floresloyd?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">DevPost</a></span>
+<span><a href="https://www.kaggle.com/loydnf">Kaggle</a></span>
+<span><a href="mailto:us.flores.loyd@gmail.com">us.flores.loyd@gmail.com</a> </span>
+                    
 <p align="center">
   <a href="https://linkedin.com/in/loyd-flores" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loyd-flores" height="30" width="40" />
