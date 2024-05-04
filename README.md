@@ -1,11 +1,12 @@
 <img src="https://github.com/floresloyd/floresloyd/blob/main/photo-banner.gif" width="1200" alt="repo-banner">
 
-<span align="center"><a href="https://www.loydnf.co/">Personal Website</a></span>
-<span align="center"><a href="https://www.linkedin.com/in/loyd-flores/">LinkedIn</a> </span>
-<span align="center"><a href="https://devpost.com/floresloyd?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">DevPost</a></span>
-<span align="center"><a href="https://www.kaggle.com/loydnf">Kaggle</a></span>
-<span align="center"><a href="mailto:us.flores.loyd@gmail.com">us.flores.loyd@gmail.com</a> </span>
-                    
+<p align="center">
+  <a href="https://www.loydnf.co/">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/loyd-flores/">LinkedIn</a> •
+  <a href="https://devpost.com/floresloyd?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">DevPost</a> •
+  <a href="https://www.kaggle.com/loydnf">Kaggle</a> •
+  <a href="mailto:us.flores.loyd@gmail.com">Email</a>
+</p>               
 <p align="center">
   <a href="https://linkedin.com/in/loyd-flores" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loyd-flores" height="30" width="40" />
